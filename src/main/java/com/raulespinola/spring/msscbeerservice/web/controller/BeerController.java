@@ -1,4 +1,4 @@
-package com.raulespinola.spring.msscbeerservice.we.controller;
+package com.raulespinola.spring.msscbeerservice.web.controller;
 
 import com.raulespinola.spring.msscbeerservice.web.model.BeerDto;
 import org.apache.logging.log4j.util.ReadOnlyStringMap;
