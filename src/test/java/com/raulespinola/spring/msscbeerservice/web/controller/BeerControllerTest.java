@@ -1,6 +1,7 @@
 package com.raulespinola.spring.msscbeerservice.web.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.raulespinola.spring.msscbeerservice.web.controller.BeerController;
 import com.raulespinola.spring.msscbeerservice.web.model.BeerDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
