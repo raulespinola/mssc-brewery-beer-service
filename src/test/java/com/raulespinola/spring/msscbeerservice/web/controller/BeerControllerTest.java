@@ -1,4 +1,4 @@
-package com.raulespinola.spring.msscbeerservice.we.controller;
+package com.raulespinola.spring.msscbeerservice.web.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.raulespinola.spring.msscbeerservice.web.controller.BeerController;
